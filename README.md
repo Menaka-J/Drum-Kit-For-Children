@@ -2,7 +2,7 @@
 
 A fun and interactive web-based drum kit that lets you play different drum sounds using your keyboard or mouse. Built with HTML, CSS, and JavaScript.
 
-![Drum Kit Screenshot](<img width="1918" height="1044" alt="image" src="https://github.com/user-attachments/assets/d246e9c4-82c0-456e-b6b1-1f5f3a7786c9" />)
+![Drum Kit Screenshot](<img width="1918" height="1044" alt="Screenshot 2025-09-19 200848" src="https://github.com/user-attachments/assets/84360f5e-c81c-4a9a-9c9f-5fb8620440f0" />)
 
 ## Features
 
