@@ -1,6 +1,7 @@
 # BeeBuddy Drum Kit 🥁
 
 A fun and interactive web-based drum kit that lets you play different drum sounds using your keyboard or mouse. Built with HTML, CSS, and JavaScript.
+##see live site here https://menaka-j.github.io/Drum-Kit-For-Children/
 
 <img width="1918" height="1044" alt="Screenshot 2025-09-19 200848" src="https://github.com/user-attachments/assets/7bc4059b-af87-450d-be62-cb3b1fa2b3d2" />
 
